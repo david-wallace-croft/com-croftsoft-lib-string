@@ -11,11 +11,11 @@ homepage = "https://www.CroftSoft.com/"
 license = "MIT"
 name = "com-croftsoft-lib-string"
 # Change this value to true when you publish to crates.io
-publish = false
+publish = true
 readme = "README.md"
 # Remark this line out if your project is not in a code repository
 repository = "https://github.com/david-wallace-croft/com-croftsoft-lib-string"
-version = "0.1.0-SNAPSHOT"
+version = "0.1.0"
 
 [dependencies]
 # No dependencies
