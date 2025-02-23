@@ -3,7 +3,7 @@ authors = ["David Wallace Croft <david@CroftSoft.com>"]
 # Use the categories from https://crates.io/categories
 # categories = ["category-name"]
 description = "CroftSoft String Library"
-edition = "2021"
+edition = "2024"
 homepage = "https://www.CroftSoft.com/"
 # https://doc.rust-lang.org/cargo/reference/manifest.html#the-keywords-field
 # keywords = ["keyword"]
@@ -12,7 +12,7 @@ name = "com-croftsoft-lib-string"
 publish = false
 readme = "README.md"
 repository = "https://github.com/david-wallace-croft/com-croftsoft-lib-string"
-rust-version = "1.56.1"
+rust-version = "1.85.0"
 version = "0.1.1-SNAPSHOT"
 
 [dependencies]
